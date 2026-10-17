@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d9d9f03170.fengguoshuzi.cn/sitemap.xml
